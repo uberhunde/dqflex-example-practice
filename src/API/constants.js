@@ -1,1 +1,1 @@
-export const baseUrl = "YOUR-API-URL";
+export const baseUrl = "http://uberhunde.click:8080/";
