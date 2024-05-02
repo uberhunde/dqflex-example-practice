@@ -17,7 +17,7 @@
     "react-stars": "^2.2.5"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start --openssl-legacy-provider",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -41,5 +41,9 @@
   },
   "devDependencies": {
     "jest-axe": "^4.1.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/uberhunde/dqflex-example-practice.git",
+  "author": "Uberhunde <uberhunde88@gmail.com>",
+  "license": "MIT"
 }
